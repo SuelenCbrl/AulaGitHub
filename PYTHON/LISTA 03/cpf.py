@@ -1,1 +1,0 @@
-cpf = int(input("Digite o numero do CPF: "))
